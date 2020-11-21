@@ -11,4 +11,5 @@ Explanation
 5. 퍼즐이 활성화 되어있을 때 TimeScale = 0되어 플레이어의 이동, 카메라 각도 이동 등이 불가능
 
 Game Scene
+
 ![키패드 퍼즐](https://user-images.githubusercontent.com/74092254/99870512-fcf8d280-2c16-11eb-8ac2-a19ec3d70df8.png)
