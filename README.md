@@ -9,3 +9,6 @@ Explanation
 3. 정답 입력이 처음일 경우 bool값을 true로 설정하여 다음 이벤트 발생 준비
 4. Invoke 함수를 사용하여 다음 스토리 자동 진행(2번째)
 5. 퍼즐이 활성화 되어있을 때 TimeScale = 0되어 플레이어의 이동, 카메라 각도 이동 등이 불가능
+
+Game Scene
+![키패드 퍼즐](https://user-images.githubusercontent.com/74092254/99870512-fcf8d280-2c16-11eb-8ac2-a19ec3d70df8.png)
